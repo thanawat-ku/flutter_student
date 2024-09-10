@@ -2,10 +2,9 @@ import 'dart:convert';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/app_screen/course_screen.dart';
-import 'package:flutter_application_1/app_screen/exam_result_screen.dart';
-import 'package:flutter_application_1/app_screen/student_screen.dart';
-import 'package:flutter_application_1/model/student.dart';
+import 'course_screen.dart';
+import 'exam_result_screen.dart';
+import 'student_screen.dart';
 
 import '../model/course.dart';
 import 'package:http/http.dart' as http;
